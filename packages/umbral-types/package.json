@@ -2,7 +2,7 @@
     "name": "@stream-wallet/umbral-types",
     "version": "0.1.1",
     "main": "build/index.js",
-    "author": "streamprotocol",
+    "author": "Stream Protocol",
     "license": "Apache-2.0",
     "private": false,
     "publishConfig": {
