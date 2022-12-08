@@ -1,14 +1,10 @@
-# stream-wallet-sdk
+# Stream Wallet SDK
 
 
 ### Node packages
 
-#### Install npm umbral-types
+cd packages/
 
-cd packages && cd umbral-types
-npm install
+npm i @stream-wallet/umbral-types
 
-#### Install npm wallet-types
-
-cd packages && cd wallet-types
-npm install
+npm i @stream-wallet/wallet-types
